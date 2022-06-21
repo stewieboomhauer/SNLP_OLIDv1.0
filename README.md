@@ -4,4 +4,6 @@ I tried out several machine learning approaches with different features and seve
  
 The results show that the approach implemented using the BERT architectures, produced a model with the best results on both the training as well as the test sets. The best BERT model outperforms the best machine learning model by 7% in accuracy and 8% in macro avereged F-Score.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The code for machine learning models is to be find in a file called olidTask_snlp(ML_models).ipynb, the code for models using Simple Transformers is in the file olidTask_snlp(SimpleTransformer_models).ipynb.
